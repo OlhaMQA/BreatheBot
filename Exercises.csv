@@ -1,0 +1,12 @@
+﻿id,name,description,inhale,exhale,hold,loud_exhale,left_nostril inhale,Left_nostril_exhale,right_noestril_inhale,right_nostril_exhale,,inhale_timer,exhale_timer,hold_timer
+1,deep breathing,"""Place one hand on your belly and the other on your chest. ""
+                                        ""Inhale deeply through your nose, feeling your belly rise as you breathe in.""
+                                        "" Exhale slowly through your mouth, feeling your belly fall. ""
+                                        ""Repeat for several breaths.""",4,4,0,0,0,0,0,0,0,6,8,0
+2,box breathing,"Inhale through your nose for a count of 4. \nHold your breath for a count of 4. ""
+                                ""\nExhale through your mouth for a count of 4. \nHold your breath for a count of 4. ""
+                                ""\nRepeat for 4 rounds with me.",4,4,8,0,0,0,0,0,0,4,4,4
+3,loud breathing,"""Inhale deeply through your nose. ""
+                                        ""Exhale forcefully through your mouth, ""
+                                        ""sticking out your tongue and making a 'ha' sound. ""
+                                        ""Repeat for several breaths.""",4,0,0,4,0,0,0,0,0,8,6,0
